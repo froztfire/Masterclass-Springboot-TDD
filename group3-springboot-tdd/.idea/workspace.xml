@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ec9500a4-073d-467b-8f9e-8823b4899549" name="Changes" comment="[PASSED] : ISBN Passed All Test">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tdd/Isbn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tdd/Isbn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tdd/IsbnValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tdd/IsbnValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/tdd/IsbnValidatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tdd/IsbnValidatorTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+        <option name="usePluginRegistry" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Xei8PFJ5Hw1qNK8tj0aYXlOOJC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.tdd" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.tdd" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in tdd (3)">
+    <configuration name="All in tdd (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tdd" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in tdd (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tdd" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in tdd (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tdd" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in tdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tdd" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsbnTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tdd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tdd" />
+      <option name="MAIN_CLASS_NAME" value="com.tdd.IsbnTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in tdd (3)" />
+        <item itemvalue="JUnit.All in tdd (2)" />
+        <item itemvalue="JUnit.All in tdd (1)" />
+        <item itemvalue="JUnit.All in tdd" />
+        <item itemvalue="JUnit.IsbnTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec9500a4-073d-467b-8f9e-8823b4899549" name="Changes" comment="" />
+      <created>1698995785513</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698995785513</updated>
+    </task>
+    <task id="LOCAL-00001" summary="[FAILING] : Test Value Of ISBN If Not Null">
+      <option name="closed" value="true" />
+      <created>1699079774103</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699079774103</updated>
+    </task>
+    <task id="LOCAL-00002" summary="[PASSED] : Test Value Of ISBN-10 If Not Null">
+      <option name="closed" value="true" />
+      <created>1699079864844</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699079864844</updated>
+    </task>
+    <task id="LOCAL-00003" summary="[FAILED] : Test Value Of ISBN-10 If Not Equal 10">
+      <option name="closed" value="true" />
+      <created>1699080733287</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699080733287</updated>
+    </task>
+    <task id="LOCAL-00004" summary="[PASSED] : Test Value Of ISBN-10 If Not Equal 10">
+      <option name="closed" value="true" />
+      <created>1699081174878</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1699081174878</updated>
+    </task>
+    <task id="LOCAL-00005" summary="[FAILED] : Test Value Of ISBN-10 If NULL">
+      <option name="closed" value="true" />
+      <created>1699081477983</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1699081477983</updated>
+    </task>
+    <task id="LOCAL-00006" summary="[PASSED] : Test Value Of ISBN-10 If NULL">
+      <option name="closed" value="true" />
+      <created>1699081602923</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1699081602923</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Refatored some code for ISBN Patterns">
+      <option name="closed" value="true" />
+      <created>1699096104879</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1699096104879</updated>
+    </task>
+    <task id="LOCAL-00008" summary="[FAILED] : test Valid Isbn Pattern If True">
+      <option name="closed" value="true" />
+      <created>1699096489608</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1699096489608</updated>
+    </task>
+    <task id="LOCAL-00009" summary="[PASSED] : test Valid Isbn Pattern If True">
+      <option name="closed" value="true" />
+      <created>1699096559441</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1699096559441</updated>
+    </task>
+    <task id="LOCAL-00010" summary="[FAILED] : testing Invalid ISBN-10 exception">
+      <option name="closed" value="true" />
+      <created>1699096981134</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1699096981134</updated>
+    </task>
+    <task id="LOCAL-00011" summary="[PASSED] : testing Invalid ISBN-10 exception">
+      <option name="closed" value="true" />
+      <created>1699097141263</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1699097141263</updated>
+    </task>
+    <task id="LOCAL-00012" summary="[PASSED] : Should Return valid removed Dashes and Whitespace">
+      <option name="closed" value="true" />
+      <created>1699097366159</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1699097366159</updated>
+    </task>
+    <task id="LOCAL-00013" summary="[FAILED] : Should Return false if ISBN is not equal 10">
+      <option name="closed" value="true" />
+      <created>1699097818463</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1699097818463</updated>
+    </task>
+    <task id="LOCAL-00014" summary="[PASSED] : Should Return false if ISBN is not equal 10">
+      <option name="closed" value="true" />
+      <created>1699097878350</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1699097878350</updated>
+    </task>
+    <task id="LOCAL-00015" summary="[PASSED] : Should Throw Invalid Pattern Exception">
+      <option name="closed" value="true" />
+      <created>1699098861122</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1699098861122</updated>
+    </task>
+    <task id="LOCAL-00016" summary="[FAILED] : ISBN">
+      <option name="closed" value="true" />
+      <created>1699255712793</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1699255712793</updated>
+    </task>
+    <task id="LOCAL-00017" summary="[FAILED] : ISBN Validator Test">
+      <option name="closed" value="true" />
+      <created>1699259116945</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1699259116945</updated>
+    </task>
+    <task id="LOCAL-00018" summary="[FAILED] : ISBN Validator Test">
+      <option name="closed" value="true" />
+      <created>1699265809507</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1699265809507</updated>
+    </task>
+    <task id="LOCAL-00019" summary="[PASSED] : ISBN Passed All Test">
+      <option name="closed" value="true" />
+      <created>1699266070246</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1699266070246</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="[FAILING] : Test Value Of ISBN If Not Null" />
+    <MESSAGE value="[PASSED] : Test Value Of ISBN-10 If Not Null" />
+    <MESSAGE value="[FAILED] : Test Value Of ISBN-10 If Not Equal 10" />
+    <MESSAGE value="[PASSED] : Test Value Of ISBN-10 If Not Equal 10" />
+    <MESSAGE value="[FAILED] : Test Value Of ISBN-10 If NULL" />
+    <MESSAGE value="[PASSED] : Test Value Of ISBN-10 If NULL" />
+    <MESSAGE value="Refatored some code for ISBN Patterns" />
+    <MESSAGE value="[FAILED] : test Valid Isbn Pattern If True" />
+    <MESSAGE value="[PASSED] : test Valid Isbn Pattern If True" />
+    <MESSAGE value="[FAILED] : testing Invalid ISBN-10 exception" />
+    <MESSAGE value="[PASSED] : testing Invalid ISBN-10 exception" />
+    <MESSAGE value="[PASSED] : Should Return valid removed Dashes and Whitespace" />
+    <MESSAGE value="[FAILED] : Should Return false if ISBN is not equal 10" />
+    <MESSAGE value="[PASSED] : Should Return false if ISBN is not equal 10" />
+    <MESSAGE value="[PASSED] : Should Throw Invalid Pattern Exception" />
+    <MESSAGE value="[FAILED] : ISBN" />
+    <MESSAGE value="[FAILED] : ISBN Validator Test" />
+    <MESSAGE value="[PASSED] : ISBN Passed All Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="[PASSED] : ISBN Passed All Test" />
+  </component>
+  <component name="XPathView.XPathProjectComponent">
+    <history />
+    <find-history />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/group3_springboot_tdd$IsbnTest_testISBN10IfNull.ic" NAME="IsbnTest.testISBN10IfNull Coverage Results" MODIFIED="1699076617540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.tdd.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/group3_springboot_tdd$IsbnTest_testValueOfIsbn10.ic" NAME="IsbnTest.testValueOfIsbn10 Coverage Results" MODIFIED="1699081092228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.tdd.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/group3_springboot_tdd$IsbnTest_testIfISBN10isNotNull.ic" NAME="IsbnTest.testIfISBN10isNotNull Coverage Results" MODIFIED="1699076956859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.tdd.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/group3_springboot_tdd$IsbnTest_validateISBN10NotNull.ic" NAME="IsbnTest.validateISBN10NotNull Coverage Results" MODIFIED="1699073490690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.tdd.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/group3_springboot_tdd$IsbnTest_testValidIsbnNull.ic" NAME="IsbnTest.testValidIsbnNull Coverage Results" MODIFIED="1699100071244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.tdd.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/group3_springboot_tdd$IsbnTest_validateISBN10withXchecksumNotValid.ic" NAME="IsbnTest.validateISBN10withXchecksumNotValid Coverage Results" MODIFIED="1699075458161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.tdd.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/group3_springboot_tdd$IsbnTest_testInvalidIsbnPatternException.ic" NAME="IsbnTest.testInvalidIsbnPatternException Coverage Results" MODIFIED="1699098759621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.tdd.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/group3_springboot_tdd$IsbnTest_testISBN10IfNotNull.ic" NAME="IsbnTest.testISBN10IfNotNull Coverage Results" MODIFIED="1699076481011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.tdd.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/group3_springboot_tdd$IsbnTest_testIsbnDisplayValidWithDashes.ic" NAME="IsbnTest.testIsbnDisplayValidWithDashes Coverage Results" MODIFIED="1699097231732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.tdd.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/group3_springboot_tdd$IsbnTest_testIfISBNisNotNull.ic" NAME="IsbnTest.testIfISBNisNotNull Coverage Results" MODIFIED="1699076912124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.tdd.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/group3_springboot_tdd$IsbnTest_testISBNisValidWhenNotNull.ic" NAME="IsbnTest.testISBNisValidWhenNotNull Coverage Results" MODIFIED="1699077149978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.tdd.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/group3_springboot_tdd$IsbnTest_testChecksumWhenX.ic" NAME="IsbnTest.testChecksumWhenX Coverage Results" MODIFIED="1699086625285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.tdd.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/group3_springboot_tdd$IsbnTest_testChecksum.ic" NAME="IsbnTest.testChecksum Coverage Results" MODIFIED="1699103489338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.tdd.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/group3_springboot_tdd$IsbnTest.ic" NAME="IsbnTest Coverage Results" MODIFIED="1699103041092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.tdd.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/group3_springboot_tdd$IsbnTest_testInvalidIsbnExceptionWhenISBNNotEqualTo10.ic" NAME="IsbnTest.testInvalidIsbnExceptionWhenISBNNotEqualTo10 Coverage Results" MODIFIED="1699097977158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.tdd.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/group3_springboot_tdd$IsbnTest_testValidIsbnPatternIfTrue.ic" NAME="IsbnTest.testValidIsbnPatternIfTrue Coverage Results" MODIFIED="1699098235109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.tdd.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/group3_springboot_tdd$IsbnTest_testISBN10digitIsEqual10.ic" NAME="IsbnTest.testISBN10digitIsEqual10 Coverage Results" MODIFIED="1699081026695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.tdd.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/group3_springboot_tdd$IsbnTest_testISBNifNotEqualTo10.ic" NAME="IsbnTest.testISBNifNotEqualTo10 Coverage Results" MODIFIED="1699097854711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.tdd.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/group3_springboot_tdd$All_in_tdd__1_.ic" NAME="All in tdd (1) Coverage Results" MODIFIED="1699269307313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/group3_springboot_tdd$IsbnTest_validateISBN10withXchecksum.ic" NAME="IsbnTest.validateISBN10withXchecksum Coverage Results" MODIFIED="1699075300853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.tdd.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/group3_springboot_tdd$IsbnTest_testInvalidIsbnException.ic" NAME="IsbnTest.testInvalidIsbnException Coverage Results" MODIFIED="1699097029136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.tdd.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/group3_springboot_tdd$IsbnTest_testISBN10isValidWhenNotNull.ic" NAME="IsbnTest.testISBN10isValidWhenNotNull Coverage Results" MODIFIED="1699095028743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.tdd.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/group3_springboot_tdd$IsbnTest_testValueOfIsbn13.ic" NAME="IsbnTest.testValueOfIsbn13 Coverage Results" MODIFIED="1699083110065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.tdd.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/group3_springboot_tdd$All_in_tdd__2_.ic" NAME="All in tdd (2) Coverage Results" MODIFIED="1699269492835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/group3_springboot_tdd$IsbnTest_testISBN10isNotValidWhenNull.ic" NAME="IsbnTest.testISBN10isNotValidWhenNull Coverage Results" MODIFIED="1699081513398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.tdd.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/group3_springboot_tdd$IsbnTest_validateISBN10NotEqual10Digit.ic" NAME="IsbnTest.validateISBN10NotEqual10Digit Coverage Results" MODIFIED="1699075346103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.tdd.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/group3_springboot_tdd$IsbnTest_testISBN10digitIsNotEqual10.ic" NAME="IsbnTest.testISBN10digitIsNotEqual10 Coverage Results" MODIFIED="1699087174756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.tdd.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/group3_springboot_tdd$IsbnTest_validateISBN10GreaterThan10Digit.ic" NAME="IsbnTest.validateISBN10GreaterThan10Digit Coverage Results" MODIFIED="1699073728298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.tdd.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/group3_springboot_tdd$IsbnTest_testValidIsbnNotNull.ic" NAME="IsbnTest.testValidIsbnNotNull Coverage Results" MODIFIED="1699099988344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.tdd.*</FILTER>
+    </SUITE>
+  </component>
+</project>
